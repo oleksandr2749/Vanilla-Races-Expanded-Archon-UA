@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_NeutroCasket.label>нейтроамінове ліжко</VREA_NeutroCasket.label>
+  <VREA_NeutroCasket.description>Спеціально розроблене ліжко для операцій та заправки андроїдів нейтроаміном. Нейтроамін можна завчасно залити в ліжко, принести зі складу, або подати з підключеного резервуара\n\nМаксимальна кількість нейтроаміну в андроїд - 100 одиниць.\nМінімальна кількість нейтроаміну для дієздатності андроїда - 50 одиниць.</VREA_NeutroCasket.description>
+  <VREA_NeutroCasket_Blueprint.label>neutro casket (blueprint)</VREA_NeutroCasket_Blueprint.label>
+  <VREA_NeutroCasket_Blueprint_Install.label>neutro casket (blueprint)</VREA_NeutroCasket_Blueprint_Install.label>
+  <VREA_NeutroCasket_Frame.label>neutro casket (building)</VREA_NeutroCasket_Frame.label>
+  <VREA_NeutroCasket_Frame.description>A casket specially designed for use by androids undergoing operations, or suffering from neutroloss as it can cycle and replace any missing neutroamine. There must be neutroamine available, either stored locally or sourced with a pipe network.\n\nThe maximum amount of neutroamine an android can hold is 100 units, but they can operate with minimal functions at 50 units.</VREA_NeutroCasket_Frame.description>
+
+
+</LanguageData>

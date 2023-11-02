@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_NeutroLoss.label>нейтротеча</VREA_NeutroLoss.label>
+  <VREA_NeutroLoss.description>Зменшення нормального обсягу нейтроаміну. Незначна втрата має відносно легкі наслідки, але коли втрата стає серйозною, всі підсистеми сильно порушуються, і андроїд втрачає здатність рухатися. Екстремальна втрата ніколи не призведе до смерті.
+\n\nВтрата нейтроаміну не відновлюється самостійно. Андроїда потрібно покласти в нейтроліжко і знову наповнити його нейтроаміном.</VREA_NeutroLoss.description>
+  <VREA_NeutroLoss.stages.0.label>незначна</VREA_NeutroLoss.stages.0.label>
+  <VREA_NeutroLoss.stages.1.label>незначна</VREA_NeutroLoss.stages.1.label>
+  <VREA_NeutroLoss.stages.2.label>помірна</VREA_NeutroLoss.stages.2.label>
+  <VREA_NeutroLoss.stages.3.label>серйозна</VREA_NeutroLoss.stages.3.label>
+  <VREA_NeutroLoss.stages.4.label>екстремальна</VREA_NeutroLoss.stages.4.label>
+
+  <VREA_Freezing.label>заморожування</VREA_Freezing.label>
+  <VREA_Freezing.description>Dangerously low core android temperature. Unless re-warmed, freezing will get worse and can result in critical biocomponent damage. Recovery is quick once the android is re-warmed. Avoid freezing by equipping warm clothes on your android in cold environments.</VREA_Freezing.description>
+  <VREA_Freezing.stages.0.label>shivering</VREA_Freezing.stages.0.label>
+  <VREA_Freezing.stages.1.label>shivering</VREA_Freezing.stages.1.label>
+  <VREA_Freezing.stages.2.label>minor</VREA_Freezing.stages.2.label>
+  <VREA_Freezing.stages.3.label>serious</VREA_Freezing.stages.3.label>
+  <VREA_Freezing.stages.4.label>extreme</VREA_Freezing.stages.4.label>
+
+  <VREA_Freeze.label>freeze</VREA_Freeze.label>
+  <VREA_Freeze.description>Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost.</VREA_Freeze.description>
+  <VREA_Freeze.injuryProps.destroyedLabel>Lost to freeze</VREA_Freeze.injuryProps.destroyedLabel>
+
+  <VREA_Overheating.label>перегрів</VREA_Overheating.label>
+  <VREA_Overheating.description>A generalized disruption to android functioning caused by excessive exposure to heat and sun. The android memory becomes scrambled, leading to faster drain of memory space. Recovery is quick once in a cool area, but if heat exposure continues, android will continue to lose memory space which can result in frequent reformatting.</VREA_Overheating.description>
+  <VREA_Overheating.stages.0.label>initial</VREA_Overheating.stages.0.label>
+  <VREA_Overheating.stages.1.label>minor</VREA_Overheating.stages.1.label>
+  <VREA_Overheating.stages.2.label>serious</VREA_Overheating.stages.2.label>
+  <VREA_Overheating.stages.3.label>extreme</VREA_Overheating.stages.3.label>
+
+  <VREA_ScanningSickness.label>Scanning sickness</VREA_ScanningSickness.label>
+  <VREA_ScanningSickness.description>This person was scanned by a softscanner to produce an android persona subcore. The high-energy scanning device has caused disturbances in their brain chemistry which will take time to resolve themselves. There won't be any long-term damage.</VREA_ScanningSickness.description>
+
+
+</LanguageData>

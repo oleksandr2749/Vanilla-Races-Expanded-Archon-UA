@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Colony android -->
+
+  <ColonyAndroidA01.title>андроїд колоніст</ColonyAndroidA01.title>
+  <ColonyAndroidA01.titleShort>андроїд колоніст</ColonyAndroidA01.titleShort>
+  <ColonyAndroidA01.baseDesc>[PAWN_nameDef] {0_gender ? був створений: була створена} в колонії.</ColonyAndroidA01.baseDesc>
+
+</LanguageData>

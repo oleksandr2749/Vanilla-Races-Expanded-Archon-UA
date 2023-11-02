@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--archons-->
+  <VRE_Archons.label>archons</VRE_Archons.label>
+  <!--Archons-->
+  <VRE_Archons.fixedName>Archons</VRE_Archons.fixedName>
+  <!--leader-->
+  <VRE_Archons.leaderTitle>leader</VRE_Archons.leaderTitle>
+  <!--archon-->
+  <VRE_Archons.pawnSingular>archon</VRE_Archons.pawnSingular>
+  <!--archons-->
+  <VRE_Archons.pawnsPlural>archons</VRE_Archons.pawnsPlural>
+</LanguageData>

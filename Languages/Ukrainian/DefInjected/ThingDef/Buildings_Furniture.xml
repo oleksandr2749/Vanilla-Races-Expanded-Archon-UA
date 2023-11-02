@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_AndroidStandSpot.label>android stand spot</VREA_AndroidStandSpot.label>
+  <VREA_AndroidStandSpot.description>Designates a spot on the ground where androids should stand to free up consumed memory space.</VREA_AndroidStandSpot.description>
+  <VREA_AndroidStandSpot_Blueprint.label>android stand spot (blueprint)</VREA_AndroidStandSpot_Blueprint.label>
+  <VREA_AndroidStandSpot_Frame.label>android stand spot (building)</VREA_AndroidStandSpot_Frame.label>
+  <VREA_AndroidStandSpot_Frame.description>Designates a spot on the ground where androids should stand to free up consumed memory space.</VREA_AndroidStandSpot_Frame.description>
+
+  <VREA_AndroidStand.label>android stand</VREA_AndroidStand.label>
+  <VREA_AndroidStand.description>A wireless interface that allows an android to rapidly free up consumed memory space. Considerably more efficient than running in sleep mode, as the stand executes the conversion externally.</VREA_AndroidStand.description>
+  <VREA_AndroidStand_Blueprint.label>android stand (blueprint)</VREA_AndroidStand_Blueprint.label>
+  <VREA_AndroidStand_Frame.label>android stand (building)</VREA_AndroidStand_Frame.label>
+  <VREA_AndroidStand_Frame.description>A wireless interface that allows an android to rapidly free up consumed memory space. Considerably more efficient than running in sleep mode, as the stand executes the conversion externally.</VREA_AndroidStand_Frame.description>
+
+  <VREA_AndroidSleepMode.label>android (sleep mode)</VREA_AndroidSleepMode.label>
+
+
+</LanguageData>

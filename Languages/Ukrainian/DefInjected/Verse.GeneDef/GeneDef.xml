@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--early maturity-->
+  <VRE_EarlyMaturity.label>early maturity</VRE_EarlyMaturity.label>
+  <!--Carriers of this gene reach skill maturity significantly earlier than others. They can do majority of tasks at the age of 4, and can do wardening, doctoring and construction at the age of 7.-->
+  <VRE_EarlyMaturity.description>Carriers of this gene reach skill maturity significantly earlier than others. They can do majority of tasks at the age of 4, and can do wardening, doctoring and construction at the age of 7.</VRE_EarlyMaturity.description>
+  <!--transcendent-->
+  <VRE_Transcendent.label>transcendent</VRE_Transcendent.label>
+  <!--Carriers of this gene have a direct link to a distant archotech, and part of their essence exists outside of our dimension. They are capable of using archon equipment, and in the event of death, they will skip back to another dimension only to return unscathed after some time has passed.-->
+  <VRE_Transcendent.description>Carriers of this gene have a direct link to a distant archotech, and part of their essence exists outside of our dimension. They are capable of using archon equipment, and in the event of death, they will skip back to another dimension only to return unscathed after some time has passed.</VRE_Transcendent.description>
+  <!--natural psylink-->
+  <VRE_InnatePsylink.label>natural psylink</VRE_InnatePsylink.label>
+  <!--Carriers of this gene have a slightly restructured brain, which provides them with a natural psylink.-->
+  <VRE_InnatePsylink.description>Carriers of this gene have a slightly restructured brain, which provides them with a natural psylink.</VRE_InnatePsylink.description>
+  <!--Losing this gene will make the colonist lose all psylink levels, though they will not forget the psycasts they have already learned.-->
+  <VRE_InnatePsylink.customEffectDescriptions.0>Losing this gene will make the colonist lose all psylink levels, though they will not forget the psycasts they have already learned.</VRE_InnatePsylink.customEffectDescriptions.0>
+  <!--extremely psy-sensitive-->
+  <VRE_PsychicAbility_MoreExtreme.label>extremely psy-sensitive</VRE_PsychicAbility_MoreExtreme.label>
+  <!--Carriers of this gene have archite-enhanced connection to the psychic. They have greatly enhanced psychic sensitivity and gain significantly more focus from meditation.-->
+  <VRE_PsychicAbility_MoreExtreme.description>Carriers of this gene have archite-enhanced connection to the psychic. They have greatly enhanced psychic sensitivity and gain significantly more focus from meditation.</VRE_PsychicAbility_MoreExtreme.description>
+  <!--psy-extreme-->
+  <VRE_PsychicAbility_MoreExtreme.labelShortAdj>psy-extreme</VRE_PsychicAbility_MoreExtreme.labelShortAdj>
+  <!--psy-->
+  <VRE_PsychicAbility_MoreExtreme.symbolPack.prefixSymbols.0.symbol>psy</VRE_PsychicAbility_MoreExtreme.symbolPack.prefixSymbols.0.symbol>
+  <!--senso-->
+  <VRE_PsychicAbility_MoreExtreme.symbolPack.prefixSymbols.1.symbol>senso</VRE_PsychicAbility_MoreExtreme.symbolPack.prefixSymbols.1.symbol>
+  <!--sensi-->
+  <VRE_PsychicAbility_MoreExtreme.symbolPack.prefixSymbols.2.symbol>sensi</VRE_PsychicAbility_MoreExtreme.symbolPack.prefixSymbols.2.symbol>
+  <!--leapjump legs-->
+  <VRE_LeapjumpLegs.label>leapjump legs</VRE_LeapjumpLegs.label>
+  <!--Carriers have special archite-powered muscle fibers in their legs which allow them to jump extremely great distances, causing blunt trauma to anyone unfortunate enough to be in the landing zone.-->
+  <VRE_LeapjumpLegs.description>Carriers have special archite-powered muscle fibers in their legs which allow them to jump extremely great distances, causing blunt trauma to anyone unfortunate enough to be in the landing zone.</VRE_LeapjumpLegs.description>
+  <!--fast melee hitter-->
+  <VRE_FastMeleeHitter.label>fast melee hitter</VRE_FastMeleeHitter.label>
+  <!--Carriers of this gene attack much quicker in close-quarters combat. Extra-fast muscle fibers make their strikes much faster.-->
+  <VRE_FastMeleeHitter.description>Carriers of this gene attack much quicker in close-quarters combat. Extra-fast muscle fibers make their strikes much faster.</VRE_FastMeleeHitter.description>
+  <!--slow melee hitter-->
+  <VRE_SlowMeleeHitter.label>slow melee hitter</VRE_SlowMeleeHitter.label>
+  <!--Carriers of this gene attack significantly slower in close-quarters combat. Weak muscle fibers make their strikes much slower.-->
+  <VRE_SlowMeleeHitter.description>Carriers of this gene attack significantly slower in close-quarters combat. Weak muscle fibers make their strikes much slower.</VRE_SlowMeleeHitter.description>
+  <!--fast shooter-->
+  <VRE_FastShooter.label>fast shooter</VRE_FastShooter.label>
+  <!--Carriers of this gene have enhanced reflexes, allowing them to fire their ranged weapons significantly faster.-->
+  <VRE_FastShooter.description>Carriers of this gene have enhanced reflexes, allowing them to fire their ranged weapons significantly faster.</VRE_FastShooter.description>
+  <!--slow shooter-->
+  <VRE_SlowShooter.label>slow shooter</VRE_SlowShooter.label>
+  <!--Carriers of this gene have lowered reflexes and take significantly longer to aim their shots.-->
+  <VRE_SlowShooter.description>Carriers of this gene have lowered reflexes and take significantly longer to aim their shots.</VRE_SlowShooter.description>
+  <!--serrated ears-->
+  <VRE_SerratedEars.label>serrated ears</VRE_SerratedEars.label>
+  <!--Carriers of this gene have long, serrated ears.-->
+  <VRE_SerratedEars.description>Carriers of this gene have long, serrated ears.</VRE_SerratedEars.description>
+  <!--facial spots-->
+  <VRE_FacialSpots.label>facial spots</VRE_FacialSpots.label>
+  <!--Carriers of this gene have small pigmentation spots on their face.-->
+  <VRE_FacialSpots.description>Carriers of this gene have small pigmentation spots on their face.</VRE_FacialSpots.description>
+  <!--dread hair-->
+  <VRE_DreadHair.label>dread hair</VRE_DreadHair.label>
+  <!--Carriers of this gene grow hair that naturally forms thick dreadlocks.-->
+  <VRE_DreadHair.description>Carriers of this gene grow hair that naturally forms thick dreadlocks.</VRE_DreadHair.description>
+  <!--leatherskin-->
+  <VRE_Leatherskin.label>leatherskin</VRE_Leatherskin.label>
+  <!--Carriers of this gene are covered in a thick, rigged leather, which provides a higher sharp and blunt defense.-->
+  <VRE_Leatherskin.description>Carriers of this gene are covered in a thick, rigged leather, which provides a higher sharp and blunt defense.</VRE_Leatherskin.description>
+  <!--extreme meditation-->
+  <VRE_ExtremeMeditation.label>extreme meditation</VRE_ExtremeMeditation.label>
+  <!--Carriers of this gene are capable of having much more impactful meditation sessions. They will regenerate psyfocus significantly quicker.-->
+  <VRE_ExtremeMeditation.description>Carriers of this gene are capable of having much more impactful meditation sessions. They will regenerate psyfocus significantly quicker.</VRE_ExtremeMeditation.description>
+  <!--swift meditation-->
+  <VRE_SwiftMeditation.label>swift meditation</VRE_SwiftMeditation.label>
+  <!--Carriers of this gene are capable of having a faster meditation sessions. They will regenerate psyfocus slightly faster than usual.-->
+  <VRE_SwiftMeditation.description>Carriers of this gene are capable of having a faster meditation sessions. They will regenerate psyfocus slightly faster than usual.</VRE_SwiftMeditation.description>
+  <!--slow meditation-->
+  <VRE_SlowMeditation.label>slow meditation</VRE_SlowMeditation.label>
+  <!--Carriers of this gene are finding it difficult to focus during meditation sessions. They will regenerate psyfocus significantly slower than usual.-->
+  <VRE_SlowMeditation.description>Carriers of this gene are finding it difficult to focus during meditation sessions. They will regenerate psyfocus significantly slower than usual.</VRE_SlowMeditation.description>
+  <!--weak entropy capacity-->
+  <VRE_WeakEntropyCapacity.label>weak entropy capacity</VRE_WeakEntropyCapacity.label>
+  <!--Carriers of this gene have a much lower capacity to withstand the chaotic psychic energy accumulated via psychic powers they use.-->
+  <VRE_WeakEntropyCapacity.description>Carriers of this gene have a much lower capacity to withstand the chaotic psychic energy accumulated via psychic powers they use.</VRE_WeakEntropyCapacity.description>
+  <!--high entropy capacity-->
+  <VRE_HighEntropyCapacity.label>high entropy capacity</VRE_HighEntropyCapacity.label>
+  <!--Carriers of this gene have a higher capacity to withstand the chaotic psychic energy accumulated via psychic powers they use.-->
+  <VRE_HighEntropyCapacity.description>Carriers of this gene have a higher capacity to withstand the chaotic psychic energy accumulated via psychic powers they use.</VRE_HighEntropyCapacity.description>
+  <!--extreme entropy capacity-->
+  <VRE_ExtremeEntropyCapacity.label>extreme entropy capacity</VRE_ExtremeEntropyCapacity.label>
+  <!--Carriers of this gene have a much higher capacity to withstand the chaotic psychic energy accumulated via psychic powers they use.-->
+  <VRE_ExtremeEntropyCapacity.description>Carriers of this gene have a much higher capacity to withstand the chaotic psychic energy accumulated via psychic powers they use.</VRE_ExtremeEntropyCapacity.description>
+  <!--long pregnancy-->
+  <VRE_LongPregnancy.label>long pregnancy</VRE_LongPregnancy.label>
+  <!--Carriers of this gene take twice as long to develop a child during pregnancy. Pregnancy lasts three hexamesters - 36 days.-->
+  <VRE_LongPregnancy.description>Carriers of this gene take twice as long to develop a child during pregnancy. Pregnancy lasts three hexamesters - 36 days.</VRE_LongPregnancy.description>
+  <!--short pregnancy-->
+  <VRE_ShortPregnancy.label>short pregnancy</VRE_ShortPregnancy.label>
+  <!--Carriers of this gene develop a child during pregnancy much faster. Pregnancy lasts 3 bimesters - 12 days.-->
+  <VRE_ShortPregnancy.description>Carriers of this gene develop a child during pregnancy much faster. Pregnancy lasts 3 bimesters - 12 days.</VRE_ShortPregnancy.description>
+  <!--maniac-->
+  <VRE_Maniac.label>maniac</VRE_Maniac.label>
+  <!--Carriers of this gene lack any sort of empathy. They do not care about the suffering of others and take no pleasure from socialising with others.-->
+  <VRE_Maniac.description>Carriers of this gene lack any sort of empathy. They do not care about the suffering of others and take no pleasure from socialising with others.</VRE_Maniac.description>
+  <!--extremely aggressive-->
+  <VRE_Aggression_ExtremelyAggressive.label>extremely aggressive</VRE_Aggression_ExtremelyAggressive.label>
+  <!--Carriers of this gene are incredibly aggressive and are offended by almost anything. They will always respond to insults and slights with a social fight, and will not hesitate to use their melee weapons to get their point across. Mental breaks are always violent.-->
+  <VRE_Aggression_ExtremelyAggressive.description>Carriers of this gene are incredibly aggressive and are offended by almost anything. They will always respond to insults and slights with a social fight, and will not hesitate to use their melee weapons to get their point across. Mental breaks are always violent.</VRE_Aggression_ExtremelyAggressive.description>
+  <!--Social fight guaranteed on insult or slight.-->
+  <VRE_Aggression_ExtremelyAggressive.customEffectDescriptions.0>Social fight guaranteed on insult or slight.</VRE_Aggression_ExtremelyAggressive.customEffectDescriptions.0>
+  <!--Will use weapons in social fight.-->
+  <VRE_Aggression_ExtremelyAggressive.customEffectDescriptions.1>Will use weapons in social fight.</VRE_Aggression_ExtremelyAggressive.customEffectDescriptions.1>
+  <!--aggro-->
+  <VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.0.symbol>aggro</VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.0.symbol>
+  <!--hate-->
+  <VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.1.symbol>hate</VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.1.symbol>
+  <!--fight-->
+  <VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.2.symbol>fight</VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.2.symbol>
+  <!--destro-->
+  <VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.3.symbol>destro</VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.3.symbol>
+  <!--barb-->
+  <VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.4.symbol>barb</VRE_Aggression_ExtremelyAggressive.symbolPack.prefixSymbols.4.symbol>
+  <!--fighter-->
+  <VRE_Aggression_ExtremelyAggressive.symbolPack.suffixSymbols.0.symbol>fighter</VRE_Aggression_ExtremelyAggressive.symbolPack.suffixSymbols.0.symbol>
+</LanguageData>

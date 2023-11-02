@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_RemoveArtificialPart.label>remove component</VREA_RemoveArtificialPart.label>
+  <VREA_RemoveArtificialPart.description>Remove an artificial part.</VREA_RemoveArtificialPart.description>
+  <VREA_RemoveArtificialPart.jobString>Removing artificial body part.</VREA_RemoveArtificialPart.jobString>
+
+  <VREA_ButcherCorpseAndroid.label>shred android</VREA_ButcherCorpseAndroid.label>
+  <VREA_ButcherCorpseAndroid.description>Shred a dead android to try to salvage usable material.</VREA_ButcherCorpseAndroid.description>
+  <VREA_ButcherCorpseAndroid.jobString>Shredding android.</VREA_ButcherCorpseAndroid.jobString>
+
+
+</LanguageData>

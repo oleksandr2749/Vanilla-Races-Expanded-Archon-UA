@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--A group of {0} from {1} have arrived nearby.-->
+  <VREA_ArchonRaidArrival.textEnemy>A group of {0} from {1} have arrived nearby.</VREA_ArchonRaidArrival.textEnemy>
+  <!--A group of friendly {0} from {1} have arrived nearby.-->
+  <VREA_ArchonRaidArrival.textFriendly>A group of friendly {0} from {1} have arrived nearby.</VREA_ArchonRaidArrival.textFriendly>
+  <!--{0_pawnsPluralDef} will arrive on foot.-->
+  <VREA_ArchonRaidArrival.textWillArrive>{0_pawnsPluralDef} will arrive on foot.</VREA_ArchonRaidArrival.textWillArrive>
+</LanguageData>

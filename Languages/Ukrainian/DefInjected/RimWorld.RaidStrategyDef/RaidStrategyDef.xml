@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--They are attacking immediately.-->
+  <VREA_ArchonRaidStrategy.arrivalTextEnemy>They are attacking immediately.</VREA_ArchonRaidStrategy.arrivalTextEnemy>
+  <!--They are moving in to help you immediately.-->
+  <VREA_ArchonRaidStrategy.arrivalTextFriendly>They are moving in to help you immediately.</VREA_ArchonRaidStrategy.arrivalTextFriendly>
+  <!--Archon raid-->
+  <VREA_ArchonRaidStrategy.letterLabelEnemy>Archon raid</VREA_ArchonRaidStrategy.letterLabelEnemy>
+  <!--Friendlies-->
+  <VREA_ArchonRaidStrategy.letterLabelFriendly>Friendlies</VREA_ArchonRaidStrategy.letterLabelFriendly>
+</LanguageData>

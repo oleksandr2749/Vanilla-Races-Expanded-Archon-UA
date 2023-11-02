@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_NeutroPipe.label>нейтроамінова труба</VREA_NeutroPipe.label>
+  <VREA_NeutroPipe.description>Light, sterile pipes for transporting the liquid neutroamine in bulk to and from tanks.</VREA_NeutroPipe.description>
+  <VREA_NeutroPipe_Blueprint.label>neutro pipe (blueprint)</VREA_NeutroPipe_Blueprint.label>
+  <VREA_NeutroPipe_Frame.label>neutro pipe (building)</VREA_NeutroPipe_Frame.label>
+  <VREA_NeutroPipe_Frame.description>Light, sterile pipes for transporting the liquid neutroamine in bulk to and from tanks.</VREA_NeutroPipe_Frame.description>
+
+  <VREA_SubterraneanNeutroPipe.label>підземна нейтроамінова труба</VREA_SubterraneanNeutroPipe.label>
+  <VREA_SubterraneanNeutroPipe.description>Light, sterile pipes for transporting the liquid neutroamine in bulk to and from tanks. This pipe is hidden from view. More expensive to build than regular pipes.</VREA_SubterraneanNeutroPipe.description>
+  <VREA_SubterraneanNeutroPipe_Blueprint.label>subterranean neutro pipe (blueprint)</VREA_SubterraneanNeutroPipe_Blueprint.label>
+  <VREA_SubterraneanNeutroPipe_Frame.label>subterranean neutro pipe (building)</VREA_SubterraneanNeutroPipe_Frame.label>
+  <VREA_SubterraneanNeutroPipe_Frame.description>Light, sterile pipes for transporting the liquid neutroamine in bulk to and from tanks. This pipe is hidden from view. More expensive to build than regular pipes.</VREA_SubterraneanNeutroPipe_Frame.description>
+
+  <VREA_NeutroTank.label>нейтроаміновий бак</VREA_NeutroTank.label>
+  <VREA_NeutroTank.description>A light, sterile liquid storage tank meant for storing neutroamine delivered via neutro pipe network. Usually needed for machinery capable of synthesizing lifeforms, which otherwise consume far too much neutroamine to be reasonably refilled manually.</VREA_NeutroTank.description>
+  <VREA_NeutroTank_Blueprint.label>neutro tank (blueprint)</VREA_NeutroTank_Blueprint.label>
+  <VREA_NeutroTank_Frame.label>neutro tank (building)</VREA_NeutroTank_Frame.label>
+  <VREA_NeutroTank_Frame.description>A light, sterile liquid storage tank meant for storing neutroamine delivered via neutro pipe network. Usually needed for machinery capable of synthesizing lifeforms, which otherwise consume far too much neutroamine to be reasonably refilled manually.</VREA_NeutroTank_Frame.description>
+
+  <VREA_NeutroTap.label>нейтроаміновий кран</VREA_NeutroTap.label>
+  <VREA_NeutroTap.description>A hopper-like storage basin meant to hold dispensed neutroamine from tanks periodically for use later.</VREA_NeutroTap.description>
+  <VREA_NeutroTap_Blueprint.label>neutro tap (blueprint)</VREA_NeutroTap_Blueprint.label>
+  <VREA_NeutroTap_Blueprint_Install.label>neutro tap (blueprint)</VREA_NeutroTap_Blueprint_Install.label>
+  <VREA_NeutroTap_Frame.label>neutro tap (building)</VREA_NeutroTap_Frame.label>
+  <VREA_NeutroTap_Frame.description>A hopper-like storage basin meant to hold dispensed neutroamine from tanks periodically for use later.</VREA_NeutroTap_Frame.description>
+
+  <VREA_NeutroDrain.label>нейтроаміновий залив</VREA_NeutroDrain.label>
+  <VREA_NeutroDrain.description>A hopper-like storage basin meant to input neutroamine into the network, filling up connected tanks.</VREA_NeutroDrain.description>
+  <VREA_NeutroDrain_Blueprint.label>neutro drain (blueprint)</VREA_NeutroDrain_Blueprint.label>
+  <VREA_NeutroDrain_Blueprint_Install.label>neutro drain (blueprint)</VREA_NeutroDrain_Blueprint_Install.label>
+  <VREA_NeutroDrain_Frame.label>neutro drain (building)</VREA_NeutroDrain_Frame.label>
+  <VREA_NeutroDrain_Frame.description>A hopper-like storage basin meant to input neutroamine into the network, filling up connected tanks.</VREA_NeutroDrain_Frame.description>
+
+
+</LanguageData>

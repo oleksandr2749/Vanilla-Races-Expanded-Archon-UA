@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_MemorySpaceDrainMultiplier.label>мультиплікатор зменшення обсягу пам'яті</VREA_MemorySpaceDrainMultiplier.label>
+  <VREA_MemorySpaceDrainMultiplier.description>A multiplier on memory space drain in androids.</VREA_MemorySpaceDrainMultiplier.description>
+
+
+</LanguageData>

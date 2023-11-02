@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_MemorySpace.label>обсяг пам'яті</VREA_MemorySpace.label>
+  <VREA_MemorySpace.description>Кількість вільного місця на накопичувачу андроїда. Протягом дня обсяг пам'яті вичерпується. Якщо він дорівнює нулю, андроїд перейде в стан очищення, доки не звільниться достатньо місця.</VREA_MemorySpace.description>
+
+  <VREA_ReactorPower.label>Заряд</VREA_ReactorPower.label>
+  <VREA_ReactorPower.description>Тривалість життя вбудованого реактора андроїда. Якщо ресурс реактора добігає кінця, його необхідно замінити на новий. Андроїд без реактора не працює.</VREA_ReactorPower.description>
+
+  <VREA_FoodSuppressed.label>It's a stub. You shouldn't see it, report if otherwise.</VREA_FoodSuppressed.label>
+  <VREA_FoodSuppressed.description>Ignore it.</VREA_FoodSuppressed.description>
+
+
+</LanguageData>

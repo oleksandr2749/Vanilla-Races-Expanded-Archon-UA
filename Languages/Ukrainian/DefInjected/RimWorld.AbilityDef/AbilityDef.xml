@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--leapjump-->
+  <VRE_LeapjumpLegs.label>leapjump</VRE_LeapjumpLegs.label>
+  <!--Jump to a distant location using super-strong archite-powered legs. Will cause damage to anyone in the landing zone.-->
+  <VRE_LeapjumpLegs.description>Jump to a distant location using super-strong archite-powered legs. Will cause damage to anyone in the landing zone.</VRE_LeapjumpLegs.description>
+  <!--leapjump-->
+  <VRE_LeapjumpLegs.verbProperties.label>leapjump</VRE_LeapjumpLegs.verbProperties.label>
+</LanguageData>

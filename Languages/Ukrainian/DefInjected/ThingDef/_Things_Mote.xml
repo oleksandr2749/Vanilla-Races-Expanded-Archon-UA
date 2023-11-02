@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are Mote ThingDefs. Remain the same, DO NOT translate them. -->
+
+  <VREA_ModifyingAndroid.label>Mote</VREA_ModifyingAndroid.label>
+  <VREA_SubcorePolyanalyzer_North.label>Mote</VREA_SubcorePolyanalyzer_North.label>
+  <VREA_SubcorePolyanalyzer_South.label>Mote</VREA_SubcorePolyanalyzer_South.label>
+  <VREA_SubcorePolyanalyzer_East.label>Mote</VREA_SubcorePolyanalyzer_East.label>
+  <VREA_SubcorePolyanalyzer_West.label>Mote</VREA_SubcorePolyanalyzer_West.label>
+  <VREA_AndroidAwakenedMote.label>Mote</VREA_AndroidAwakenedMote.label>
+  <VREA_AndroidAwakenedGlow.label>Mote</VREA_AndroidAwakenedGlow.label>
+  <VREA_Mote_AndroidReformatting.label>Mote</VREA_Mote_AndroidReformatting.label>
+
+
+</LanguageData>

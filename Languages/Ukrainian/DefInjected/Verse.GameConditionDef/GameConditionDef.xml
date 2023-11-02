@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--psychic storm-->
+  <VREA_PsychicStorm.label>psychic storm</VREA_PsychicStorm.label>
+  <!--A supernatural psychic phenomena is happening over this entire region. Psychic energy will strike in random locations, damaging whatever is hit. Psychic sensitivity of everyone affected is doubled.-->
+  <VREA_PsychicStorm.description>A supernatural psychic phenomena is happening over this entire region. Psychic energy will strike in random locations, damaging whatever is hit. Psychic sensitivity of everyone affected is doubled.</VREA_PsychicStorm.description>
+  <!--a storm of psychic energy will cover the area around [map_definite] for [gameConditionDuration_duration], potentially damaging infrastructure and doubling psychic sensitivity of every living being.-->
+  <VREA_PsychicStorm.descriptionFuture>a storm of psychic energy will cover the area around [map_definite] for [gameConditionDuration_duration], potentially damaging infrastructure and doubling psychic sensitivity of every living being.</VREA_PsychicStorm.descriptionFuture>
+  <!--The psychic storm is ending.-->
+  <VREA_PsychicStorm.endMessage>The psychic storm is ending.</VREA_PsychicStorm.endMessage>
+  <!--A supernatural psychic phenomena causes a great disturbance in the area.\n\nPsychic energy will strike at random, and every living being will have their psychic sensitivity doubled.\n\nIt will last for anywhere between a few days to over a quadrum.-->
+  <VREA_PsychicStorm.letterText>A supernatural psychic phenomena causes a great disturbance in the area.\n\nPsychic energy will strike at random, and every living being will have their psychic sensitivity doubled.\n\nIt will last for anywhere between a few days to over a quadrum.</VREA_PsychicStorm.letterText>
+</LanguageData>

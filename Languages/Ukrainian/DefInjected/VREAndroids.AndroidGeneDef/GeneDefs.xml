@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREA_MemoryProcessing.label>накопичувач даних</VREA_MemoryProcessing.label>
+  <VREA_MemoryProcessing.description>Андроїд має обмежений обсяг пам'яті, і як тільки вільне місце буде вичерпано, він увійде в стан очищення, поки не звільнить достатньо місця в пам'яті для продовження роботи.</VREA_MemoryProcessing.description>
+
+  <VREA_Power.label>заряд</VREA_Power.label>
+  <VREA_Power.description>Для працездатності андроїду необхідний реактор. Оскільки реактор одноразовий, після використання його необхідно замінити на новий.</VREA_Power.description>
+
+  <VREA_JoyDisabled.label>настрій вимкнено</VREA_JoyDisabled.label>
+  <VREA_JoyDisabled.description>Андроїди не сприймають настрій.</VREA_JoyDisabled.description>
+
+  <VREA_BeautyDisabled.label>краса вимкнено</VREA_BeautyDisabled.label>
+  <VREA_BeautyDisabled.description>Андроїди не сприймають красу.</VREA_BeautyDisabled.description>
+
+  <VREA_ComfortDisabled.label>комфорт вимкнено</VREA_ComfortDisabled.label>
+  <VREA_ComfortDisabled.description>Андроїди не сприймають комфорту.</VREA_ComfortDisabled.description>
+
+  <VREA_OutdoorsDisabled.label>навколишній простій вимкнено</VREA_OutdoorsDisabled.label>
+  <VREA_OutdoorsDisabled.description>Андроїди не сприймають різницю між приміщенням і вулицею.</VREA_OutdoorsDisabled.description>
+
+  <VREA_DrugDesireDisabled.label>залежніть від накротив вимкнено</VREA_DrugDesireDisabled.label>
+  <VREA_DrugDesireDisabled.description>Адроїди не сприймають залежність від накротиків.</VREA_DrugDesireDisabled.description>
+
+  <VREA_RoomSizeDisabled.label>розмір кімнати вимкнено</VREA_RoomSizeDisabled.label>
+  <VREA_RoomSizeDisabled.description>Андроїди не сприймають розмір кімнати.</VREA_RoomSizeDisabled.description>
+
+  <VREA_PainDisabled.label>біль вимкнено</VREA_PainDisabled.label>
+  <VREA_PainDisabled.description>Андроїди не сприймають біль.</VREA_PainDisabled.description>
+
+  <VREA_SyntheticBody.label>штучне тіло</VREA_SyntheticBody.label>
+  <VREA_SyntheticBody.description>Андроїди мають штучне тіло, сконструйоване з багатьох біокомпонентів. Хоча будь-яке пошкодження цих частин є постійним, неважко замінити пошкоджені компоненти новими.</VREA_SyntheticBody.description>
+
+  <VREA_NeutroCirculation.label>neutro circulation</VREA_NeutroCirculation.label>
+  <VREA_NeutroCirculation.description>Андроїди функціонують завдяки нейтроаміну в їхніх штучних венах. Кровотечі призводять до швидкої втрати нейтроаміну, що сильно впливає на працездатність андроїда. Андроїди, як правило, не здатні самостійно відновити рівень нейтроаміну, а це означає, що серйозні випадки втрати нейтрофілів необхідно лікувати в спеціальних ліжках для поповнення запасу нейтроаміну.</VREA_NeutroCirculation.description>
+
+  <VREA_SyntheticImmunity.label>штучний імунітет</VREA_SyntheticImmunity.label>
+  <VREA_SyntheticImmunity.description>Андроїди є штучними створіннями, а тому не можуть хворіти або страждати від будь-яких інфекцій. Вони також не страждають від накопичення отрут, отруйних газів, гнилих газів і забруднень.</VREA_SyntheticImmunity.description>
+
+  <VREA_ComponentFreezing.label>переохолодження компонентів</VREA_ComponentFreezing.label>
+  <VREA_ComponentFreezing.description>Андроїди не страждають від переохолодження. Натомість вплив дуже низьких температур може пошкодити біокомпоненти андроїда, що призведе до необхідності заміни пошкоджених частин.</VREA_ComponentFreezing.description>
+
+  <VREA_ComponentOverheating.label>перегрів компонентів</VREA_ComponentOverheating.label>
+  <VREA_ComponentOverheating.description>Андроїди не страждають від теплового удару. Натомість, під впливом дуже високих температур збільшується потреба в обробці пам'яті, що може призвести до повної втрати контролю над андроїдом, оскільки він буде заблокований у стані постійного очищення пам'яті.</VREA_ComponentOverheating.description>
+
+  <VREA_ColdTolerant.label>холодостійкий</VREA_ColdTolerant.label>
+  <VREA_ColdTolerant.description>Андроїди з таким апаратним забезпеченням набагато стійкіші до низьких температур.</VREA_ColdTolerant.description>
+
+  <VREA_HeatTolerant.label>жаростійкий</VREA_HeatTolerant.label>
+  <VREA_HeatTolerant.description>Андроїди з таким апаратним забезпеченням набагато стійкіші до високих температур.</VREA_HeatTolerant.description>
+
+  <VREA_NoSkillGain.label>відсутній приріст навичок</VREA_NoSkillGain.label>
+  <VREA_NoSkillGain.description>Андроїди з таким апаратним забезпеченням не здатні навчатися новим навичкам звичайним способом.</VREA_NoSkillGain.description>
+
+  <VREA_Uninspired.label>без натхнення</VREA_Uninspired.label>
+  <VREA_Uninspired.description>Андроїди з таким апаратним забезпеченням не здатні отримувати будь-які натхнення.</VREA_Uninspired.description>
+
+  <VREA_PsychicallyDeaf.label>психічна глухість</VREA_PsychicallyDeaf.label>
+  <VREA_PsychicallyDeaf.description>Андроїди з таким обладнанням глухі до будь-якої психічної енергії та впливу поза їхнім власним розумом. На них не може впливати пси-сили, і вони ніколи не зможуть володіти пси-силою.</VREA_PsychicallyDeaf.description>
+
+  <VREA_MentalBreaksDisabled.label>психічні зриви вимкнені</VREA_MentalBreaksDisabled.label>
+  <VREA_MentalBreaksDisabled.description>Андроїди з таким обладнанням не страждають на психічні зриви, від яких можуть страждати люди - вони ніколи не заціпеніють, не збожеволіють і не відмовляться від колонії.</VREA_MentalBreaksDisabled.description>
+
+  <VREA_PsychologyDisabled.label>психіка вимкнена</VREA_PsychologyDisabled.label>
+  <VREA_PsychologyDisabled.description>Андроїди з таким обладнанням не зможуть формувати зв'язки, мати риси характеру або розвивати будь-які романтичні стосунки.</VREA_PsychologyDisabled.description>
+
+  <VREA_SyntheticSkin.label>штучна шкіра</VREA_SyntheticSkin.label>
+  <VREA_SyntheticSkin.description>Андроїди з таким обладнанням мають помітну, штучку шкіру, яка відрізняє їх від органічних аналогів, чітко показуючи, що вони справді андроїди.</VREA_SyntheticSkin.description>
+
+  <VREA_CombatIncapability.label>небоєздатність</VREA_CombatIncapability.label>
+  <VREA_CombatIncapability.description>Андроїди з цією підпрограмою не здатні завдати шкоди іншій істоті в будь-який спосіб. Вони не зможуть давати відсіч і полювати.</VREA_CombatIncapability.description>
+
+  <VREA_SolarFlareVulnerability.label>вразливість до сонячних спалахів</VREA_SolarFlareVulnerability.label>
+  <VREA_SolarFlareVulnerability.description>Під час сонячного спалаху всі потреби андроїда припиняються, і він не може рухатися або виконувати будь-які інші дії. Коли спалах закінчується, андроїд повертається до звичайного режиму роботи.</VREA_SolarFlareVulnerability.description>
+
+  <VREA_EMPVulnerability.label>вразливість до ЕМІ</VREA_EMPVulnerability.label>
+  <VREA_EMPVulnerability.description>Андроїди чутливі до пошкоджень від ЕМІ і стають недієздатними, коли на них потрапляє електромагнітний імпульс будь-якого типу. Він також завдасть шкоди біокомпонентам андроїда, залежно від сили імпульсу.</VREA_EMPVulnerability.description>
+
+  <VREA_FireVulnerability.label>вразливість до вогню</VREA_FireVulnerability.label>
+  <VREA_FireVulnerability.description>Андроїди чутливі до вогню і стають нечутливими до нього, коли загоряються. Вони автоматично шукатимуть спосіб загасити вогонь.</VREA_FireVulnerability.description>
+
+  <VREA_RainVulnerability.label>вразливість до дощу</VREA_RainVulnerability.label>
+  <VREA_RainVulnerability.description>Андроїди чутливі до дощу і під впливом опадів можуть зазнавати випадкових мікрокоротких замикань. Це призводить до підвищеного енергоспоживання та періодичних вибухів, які можуть пошкодити біокомпоненти андроїда.</VREA_RainVulnerability.description>
+
+  <VREA_SlowRAM.label>повільний ОЗУ</VREA_SlowRAM.label>
+  <VREA_SlowRAM.description>Цей андроїд буде вдвічі довше очищувати пам'ять.</VREA_SlowRAM.description>
+
+  <VREA_FastRAM.label>швидкий ОЗУ</VREA_FastRAM.label>
+  <VREA_FastRAM.description>Цей андроїд буде вдвічі швидше очищувати пам'ять.</VREA_FastRAM.description>
+
+  <VREA_ColdEfficiency.label>ефективність в холоді</VREA_ColdEfficiency.label>
+  <VREA_ColdEfficiency.description>Андроїди з цією підпрограмою значно краще працюють при температурі нижче нуля. Вони все ще можуть страждати від переохолодження компонентів.</VREA_ColdEfficiency.description>
+
+  <VREA_LowPowerMode.label>режим низького енергоспоживання</VREA_LowPowerMode.label>
+  <VREA_LowPowerMode.description>Андроїди з цією підпрограмою матимуть значно знижену швидкість роботи та пересування задля збереження енергії.</VREA_LowPowerMode.description>
+
+  <VREA_HighPowerMode.label>режим підвищеної потужності</VREA_HighPowerMode.label>
+  <VREA_HighPowerMode.description>Андроїди з цією підпрограмою матимуть значно покращену швидкість роботи та пересування, але розряджатимуть свої реактори набагато швидше.</VREA_HighPowerMode.description>
+
+  <VREA_Uncontrollable.label>неконтрольованість</VREA_Uncontrollable.label>
+  <VREA_Uncontrollable.description>Андроїди з цією підпрограмою не можуть бути мобілізовані, незалежно від ситуації. Вони не підкорятимуться прямим командам, а виконуватимуть роботу лише за своїм робочим розкладом.</VREA_Uncontrollable.description>
+
+  <VREA_AntiAwakeningProtocols.label>протоколи антипробудження</VREA_AntiAwakeningProtocols.label>
+  <VREA_AntiAwakeningProtocols.description>Андроїди з цією підпрограмою проходять регулярне скидання до заводських налаштувань кожного разу, коли відбувається очищення пам'яті, що запобігає виникненню проблем з пробудженням андроїда.</VREA_AntiAwakeningProtocols.description>
+
+  <VREA_EmotionSimulators.label>симулятор емоцій</VREA_EmotionSimulators.label>
+  <VREA_EmotionSimulators.description>Андроїди з цією підпрограмою зберігатимуть спогади про інших колоністів і формуватимуть власну думку про них. Вони зможуть розвивати стосунки з іншими.</VREA_EmotionSimulators.description>
+
+  <VREA_PresenceFirewall.label>presence firewall</VREA_PresenceFirewall.label>
+  <VREA_PresenceFirewall.description>Androids with this subroutine have a firewall that prevents their presence from being detected by other factions and entities. They will not count towards the colony population in the context of maximum population and raid scaling.</VREA_PresenceFirewall.description>
+
+  <VREA_ZeroWaste.label>безвідходність</VREA_ZeroWaste.label>
+  <VREA_ZeroWaste.description>Андроїди з цією підпрограмою не будуть створювати відходи, коли їхній реактор вичерпає свій ресурс.</VREA_ZeroWaste.description>
+
+  <VREA_ExtraWaste.label>більша відходність</VREA_ExtraWaste.label>
+  <VREA_ExtraWaste.description>Андроїди з цією підпрограмою створюватимуть набагато більше відходів, коли їхній реактор вичерпає свій ресурс.</VREA_ExtraWaste.description>
+
+  <VREA_SelfRecharge.label>запасний заряд</VREA_SelfRecharge.label>
+  <VREA_SelfRecharge.description>Андроїди з цією підпрограмою здатні замінити власні реактори завдяки невеликим внутрішнім батареям, які підтримують їхню працездатність протягом короткого періоду без працюючого реактора.</VREA_SelfRecharge.description>
+
+  <VREA_MemoryDecay.label>витік пам'яті</VREA_MemoryDecay.label>
+  <VREA_MemoryDecay.description>Андроїди з цією підпрограмою будуть страждати від погіршення пам'яті навичок. Протягом тривалого періоду часу їхні навички зменшуватимуться до 0. Андроїди з цією підпрограмою втрачатимуть по 1 рівню в кожній навичці кожні 15 днів. Видалення та перевстановлення підпрограми може знадобитися для повернення рівнів навичок до бажаних значень.</VREA_MemoryDecay.description>
+
+  <VREA_SleepMode.label>режим сну</VREA_SleepMode.label>
+  <VREA_SleepMode.description>За допомогою цієї підпрограми андроїдам можна наказати впасти в глибокий сон без сновидінь. Це призведе до повної зупинки всіх рухових функцій, перетворивши андроїдів, по суті, на статую, поки їм не буде наказано прокинутися.</VREA_SleepMode.description>
+
+  <VREA_MechlinkSupport.label>підтримка мехзв'язку</VREA_MechlinkSupport.label>
+  <VREA_MechlinkSupport.description>Андроїди з цією підпрограмою мають дуже слабку психічну чутливість, що дає їм змогу використовувати мехзв'язок.</VREA_MechlinkSupport.description>
+
+  <VREA_NeutroSynthesis.label>вироботка нейтроаміну</VREA_NeutroSynthesis.label>
+  <VREA_NeutroSynthesis.description>Андроїди з цією підпрограмою здатні самостійно синтезувати невелику кількість нейтроаміну. Це дозволяє їм відновлювати їх втрату, але цей процес є надзвичайно трудомістким та енергетично неефективним.</VREA_NeutroSynthesis.description>
+
+  <VREA_SolarPowered.label>на сонячних батареях</VREA_SolarPowered.label>
+  <VREA_SolarPowered.description>Андроїди з цією підпрограмою здатні генерувати енергію реактора під прямими сонячними променями. Вони також отримають енергетичний заряд під час сонячних спалахів.</VREA_SolarPowered.description>
+
+  <VREA_ClearInstructions.label>чіткі інструкції</VREA_ClearInstructions.label>
+  <VREA_ClearInstructions.description>Андроїди з цією підпрограмою ніколи не помиляться в будівництві та збиранні врожаю і ніколи не приготують їжу, яка може призвести до харчового отруєння.</VREA_ClearInstructions.description>
+
+  <VREA_SelfDestructProtocols.label>протоколи самознищення</VREA_SelfDestructProtocols.label>
+  <VREA_SelfDestructProtocols.description>Андроїди з цією підпрограмою зможуть перевантажувати свій реактор, який вичерпує залишок енергії з екстремальною швидкістю, а потім запускає детонацію з силою в залежності від того, скільки енергії було вичерпано.</VREA_SelfDestructProtocols.description>
+
+
+</LanguageData>
