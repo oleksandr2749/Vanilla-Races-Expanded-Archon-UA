@@ -3,7 +3,7 @@
   <!--Mote-->
   <VREA_Warp_Mote.label>Mote</VREA_Warp_Mote.label>
   <!--archoplate-->
-  <VREA_Apparel_Archoplate.label>архоплита</VREA_Apparel_Archoplate.label>
+  <VREA_Apparel_Archoplate.label>архоброня</VREA_Apparel_Archoplate.label>
   <!--A suit of mystical armor created out of unidentified materials. It hums with psychic energy, and while it does not provide full body coverage, the wearer benefits from a nigh impenetrable psychic barrier capable of stopping most of the ranged attacks. The material is incredibly light, and does not hinder movement in any way.\n\nExpensive and beautiful, archoplate is often seen on enigmatic dimension-travellers called archons. Eltex weave within the armor greatly enhances the wearer's psychic sensitivity.-->
   <VREA_Apparel_Archoplate.description>Загадкова броня створена з невідомих матеріалів. Вона гуде псиенергією, і хоча вона не забезпечує повного покриття тіла, власник отримує перевагу від майже непроникного психічного бар'єру, здатного зупинити більшість дистанційних атак. Матеріал неймовірно легкий і жодним чином не сковує рухів.\n\nДорогий і красивий, архопласт часто можна побачити на загадкових мандрівниках з вимірів, яких називають архонтами. Плетіння елтексу в обладунках значно підвищує екстрасенсорну чутливість власника.</VREA_Apparel_Archoplate.description>
   <!--flying-->
@@ -15,9 +15,9 @@
   <!--psychic lance-->
   <VREA_PsychicLance.label>псиспис</VREA_PsychicLance.label>
   <!--archoblade-->
-  <VREA_MeleeWeapon_ArchobladeBladelink.label>архоклинок</VREA_MeleeWeapon_ArchobladeBladelink.label>
+  <VREA_MeleeWeapon_ArchobladeBladelink.label>архомеч</VREA_MeleeWeapon_ArchobladeBladelink.label>
   <!--An ethereal weapon forged in the enigmatic crucibles of archotech, the Archoblade is a fusion of unknown materials and arcane science and has the uncanny ability to phase through flesh, leaving behind agonizing scars by skipping tissue out of existence.\n\nArchoblade amplifies the psychic prowess of its bearer, resonating only with those who bear the archotech’s celestial touch. Archoblades are often imbued with powerful psycasts, and are almost always wielded exclusively by the enigmatic archons.-->
-  <VREA_MeleeWeapon_ArchobladeBladelink.description>An ethereal weapon forged in the enigmatic crucibles of archotech, the Archoblade is a fusion of unknown materials and arcane science and has the uncanny ability to phase through flesh, leaving behind agonizing scars by skipping tissue out of existence.\n\nArchoblade amplifies the psychic prowess of its bearer, resonating only with those who bear the archotech’s celestial touch. Archoblades are often imbued with powerful psycasts, and are almost always wielded exclusively by the enigmatic archons.</VREA_MeleeWeapon_ArchobladeBladelink.description>
+  <VREA_MeleeWeapon_ArchobladeBladelink.description>Меч з нематеріальним клинком, виготовений архонтами з невідомих сплавів в їхніх загадкових кузнях. Має незвичайну здібність проходити скрізь плоть, залишаючи ідеально рівні вирізи. Архомеч підсилює пси-здібності того користувача, що несе божественну благодать архонтів.</VREA_MeleeWeapon_ArchobladeBladelink.description>
   <!--Archoblade Customization-->
   <VREA_MeleeWeapon_ArchobladeBladelink.comps.CompGraphicCustomization.customizationTitle>Archoblade Customization</VREA_MeleeWeapon_ArchobladeBladelink.comps.CompGraphicCustomization.customizationTitle>
 </LanguageData>
