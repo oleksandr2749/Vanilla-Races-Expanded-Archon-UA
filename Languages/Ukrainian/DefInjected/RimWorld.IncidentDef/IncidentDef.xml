@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!--psychic storm-->
-  <VREA_PsychicStorm.label>psychic storm</VREA_PsychicStorm.label>
+  <VREA_PsychicStorm.label>пси-шторм</VREA_PsychicStorm.label>
   <!--Psychic storm-->
-  <VREA_PsychicStorm.letterLabel>Psychic storm</VREA_PsychicStorm.letterLabel>
+  <VREA_PsychicStorm.letterLabel>При-шторм</VREA_PsychicStorm.letterLabel>
   <!--archon raid-->
-  <VREA_ArchonRaid.label>archon raid</VREA_ArchonRaid.label>
+  <VREA_ArchonRaid.label>напад архонтів</VREA_ArchonRaid.label>
   <!--archon raid-->
-  <VREA_ArchonRaid.letterLabel>archon raid</VREA_ArchonRaid.letterLabel>
+  <VREA_ArchonRaid.letterLabel>напад архонтів</VREA_ArchonRaid.letterLabel>
   <!--Text.todo-->
   <VREA_ArchonRaid.letterText>Text.todo</VREA_ArchonRaid.letterText>
 </LanguageData>
